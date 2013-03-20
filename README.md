@@ -13,7 +13,6 @@ On top of this I will also build a couple of smaller applications for demonstrat
 Some project ideas:
 - A small e-commerce system
 - A booking application
-- 
 
 The systems will be built with different technologies and programming languages; they will also have some interoperability.
 
