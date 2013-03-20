@@ -14,7 +14,7 @@ Some project ideas:
 - A small e-commerce system
 - A booking application
 
-The systems will be built with different technologies and programming languages; they will also have some interoperability.
+The systems will be built with different technologies and programming languages. Some interoperability will be implemented as well.
 
 Techs/languages:
 - node.js/express.js
