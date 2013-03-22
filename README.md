@@ -25,3 +25,5 @@ Techs/languages:
 - .NET
 - Coffeescript
 - socket.io
+
+The website will use responsive design and a sleek UI.
