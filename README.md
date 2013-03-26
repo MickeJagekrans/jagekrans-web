@@ -25,5 +25,6 @@ Techs/languages:
 - .NET
 - Coffeescript
 - socket.io
+- ElasticSearch
 
 The website will use responsive design and a sleek UI.
