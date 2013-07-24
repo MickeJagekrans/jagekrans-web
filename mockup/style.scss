@@ -1,0 +1,80 @@
+// #009e8e
+// #34cfbe
+// #5dcfc3
+// #00675c
+
+$dark: #00675c;
+$medium: #009e8e;
+$light: #34cfbe;
+$lightest: #5dcfc3;
+$foreground: #333;
+$off_white: #ecf3ec;
+
+body {
+  background: $off_white;
+  color: $foreground;
+}
+
+#container {	
+  #header {
+    background: $dark;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    width: 100%;
+
+    #title {
+      padding: 20px;
+      float: left;
+
+      h1 {
+        font-size: 42px;
+        color: $lightest;
+        float: left;
+      }
+
+      h2 {
+        font-size: 36px;
+        color: $light;
+        float: left;
+        margin: 5px 0 0 26px;
+      }
+    }
+
+    #menu {
+      float: right;
+
+      ul {
+        float: right;
+        list-style-type: none;
+
+        li {
+          float: left;
+          font-size: 24px;
+          color: $lightest;
+          font-weight: 400;
+
+          a {
+            padding: 29px 24px;
+            display: block;
+          }
+          
+
+          &:hover {
+            color: white;
+          }
+
+          &:last-child a {
+            padding-right: 48px;
+          }
+        }
+      }
+    }
+	}
+
+  #content {
+    width: 1080px;
+    margin: 0px auto;
+    height: 400px;
+    background: white;
+  }
+}
